@@ -1,0 +1,1458 @@
+.nav-item {
+  font-size: 20px;
+}
+
+.nav-item:hover {
+  background-color: #dfdbdb;
+}
+
+.space {
+  flex-wrap: nowrap;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.part {
+  color: #000000 !important;
+  font-size: 1.4rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  width: 50px;
+  background: white;
+  margin: 0 0.3rem;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.dive {
+  padding: 10rem;
+  padding-bottom: 10rem;
+  background-image: url(img1.jpg);
+  height: 599px;
+  background-size: cover;
+  background-position-y: center;
+  margin-bottom: 85px;
+}
+
+.data {
+  font-family: "Roboto", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+}
+
+.see {
+  font-family: "Roboto", serif;
+  font-weight: 900;
+  font-style: normal;
+  font-size: 63px;
+}
+
+.sean {
+  font-family: "Roboto", serif;
+  font-weight: 900;
+  font-style: normal;
+  font-size: 17px;
+}
+
+.con {
+  margin-left: -0.6rem;
+  box-sizing: border-box;
+}
+
+.con:hover {
+  background-color: #dfdbdb;
+}
+
+.went {
+  border-radius: 15px;
+}
+
+.planer {
+  font-size: 58px;
+  font-weight: bold;
+}
+
+.flight {
+  font-size: 22px;
+  font-weight: 300;
+  max-width: 500px;
+}
+
+.taker {
+  text-align: center;
+}
+
+.colum {
+  text-align: center;
+  font-size: 14px;
+}
+
+.cone {
+  box-sizing: border-box;
+  padding: 20px;
+  background-color: rgb(153, 115, 117);
+  border: none;
+  color: black;
+  font-size: 20px;
+}
+
+.cone:hover {
+  background-color: white;
+}
+
+.flet {
+  padding: 10px;
+  font-size: 19px;
+  background-color: lightblue;
+  color: black;
+}
+
+.flet:hover {
+  background-color: black;
+  color: white;
+}
+
+.original {
+  background-color: #dfdbdb;
+  height: 425px;
+  width: 279px;
+  border-radius: 15px;
+  font-size: 20px;
+  padding: 23px;
+  margin-bottom: 95px;
+}
+
+.control {
+  padding: 10px;
+  font-size: 19px;
+  background-color: lightblue;
+  color: black;
+}
+
+.control:hover {
+  background-color: blue;
+  color: white;
+}
+
+.control1 {
+  padding: 10px;
+  font-size: 19px;
+  background-color: lightblue;
+  color: black;
+}
+
+.control1:hover {
+  background-color: gray;
+  color: black;
+}
+
+.control2 {
+  padding: 10px;
+  font-size: 19px;
+  background-color: lightblue;
+  color: black;
+}
+
+.control2:hover {
+  background-color: blue;
+  color: white;
+}
+
+.original1 {
+  background: rgb(19, 6, 242);
+  background: linear-gradient(135deg, rgba(19, 6, 242, 1) 69%, rgb(237, 6, 6) 69%);
+  height: 420px;
+  width: 279px;
+  border-radius: 15px;
+  font-size: 20px;
+  color: white;
+  padding: 23px;
+}
+
+.nothing {
+  background-color: lightblue;
+  padding: 29px;
+  text-align: center;
+  margin-bottom: 35px;
+}
+
+.either {
+  background-color: #e6a1a1;
+  ;
+  width: 80px;
+  height: 80px;
+  border-radius: 100px;
+  color: white;
+  text-align: center;
+  font-size: 56px;
+}
+
+.not {
+  background-color: #e6a1a1;
+  ;
+  width: 80px;
+  height: 80px;
+  border-radius: 100px;
+  color: white;
+  font-size: 56px;
+}
+
+.img-item {
+  border-radius: 50px;
+  height: 799px;
+  width: 418px;
+  margin-top: 31px;
+}
+
+.content {
+  box-sizing: border-box;
+}
+
+.foreign {
+  text-align: left;
+  margin-top: 85px;
+  margin-bottom: 50px;
+}
+
+.play {
+  color: grey;
+}
+
+.beach {
+  font-weight: bold;
+}
+
+.shape {
+  border: none;
+}
+
+.lab {
+  background-color: white;
+  padding: 1px;
+  border-radius: 1px;
+}
+
+.forget {
+  border: 1px solid transparent;
+  margin-top: 80px;
+}
+
+.any {
+  display: flex;
+  width: 80px;
+  height: 80px;
+
+}
+
+.andri {
+  background-color: lightblue;
+  border-radius: 100px;
+}
+
+.redmi {
+  font-size: 30px;
+  margin-top: 17px;
+}
+
+.andri:hover {
+  background-color: #e6a1a1;
+}
+
+.other {
+  color: #777777;
+  margin-top: 10px;
+}
+
+.organ {
+  text-align: center;
+}
+
+.clim {
+  text-decoration: underline;
+  text-align: left;
+}
+
+.success {
+  color: #464646;
+}
+
+.send {
+  text-align: center;
+}
+
+.for {
+  background: #ffffff;
+  border: 2px solid #dce8eb;
+  transition: border 0.3s;
+  margin-top: 80px;
+  border-radius: 10px;
+  padding: 16px;
+  width: 350px;
+}
+
+.forgeth:hover {
+  border: none;
+}
+
+.anyre {
+  display: flex;
+  padding: 25px;
+}
+
+.othernon {
+  color: #777777;
+  text-align: left;
+  margin-top: 10px;
+  font-size: 26px;
+  width: 340px;
+}
+
+.climax {
+  text-decoration: underline;
+  text-align: left;
+}
+
+.successer {
+  color: #464646;
+}
+
+.pirel {
+  width: 249px;
+  margin-top: 3px;
+  margin: auto;
+}
+
+.for {
+  margin-top: 80px;
+  background: #ffffff;
+  border: 2px solid #dce8eb;
+  transition: border 0.3s;
+  border-radius: 10px;
+  padding: 16px;
+}
+
+.for:hover {
+  border: none;
+}
+
+.anyre {
+  display: flex;
+}
+
+.othernon {
+  color: #777777;
+  text-align: left;
+  margin-top: 10px;
+  font-size: 26px;
+}
+
+.climax {
+  text-decoration: underline;
+  text-align: left;
+  padding: 25px;
+}
+
+.successeres {
+  color: #464646;
+}
+
+.greatfeel {
+  font-size: 60px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.dell {
+  font-size: 52px;
+  font-weight: bold;
+}
+
+.leo {
+  color: #454545;
+  font-size: 19px;
+}
+
+.wenter {
+  text-align: center;
+  display: flex;
+  margin: auto;
+}
+
+.resize {
+  color: #000000;
+  font-size: 39px;
+  margin: auto;
+  height: 50px;
+  width: 50px;
+  margin: 0 0.3rem;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.resize:hover {
+  background-color: #e6a1a1;
+  color: white;
+}
+
+.classer {
+  justify-content: space-between;
+}
+
+.view {
+  display: flex;
+  justify-content: space-between;
+}
+
+.place {
+  display: flex;
+  justify-content: space-between;
+}
+
+.progress {
+  color: #31363b;
+  position: relative;
+}
+
+.pro {
+  display: inline-block;
+  width: 50px;
+  color: #31363b;
+}
+
+.carding {
+  width: 249px;
+}
+
+.nithya {
+  width: 249px;
+}
+
+.wait {
+  text-align: center;
+}
+
+.wait img {
+  height: 393px;
+  border-radius: 10px;
+  -justifycontent: space-between;
+}
+
+.siva {
+  text-align: center;
+}
+.siva img {
+  height: 393px;
+  border-radius: 10px;
+  -justifycontent: space-between;
+  width: 425px;
+  margin-top: 15px;
+}
+
+.fried  {
+ text-align: center;
+}
+
+.fried img {
+  height: 250px;
+  object-fit: cover;
+  border-radius: 16px;
+  margin-bottom: 16px;
+  width: 1018px;
+  margin-top: 15px;
+}
+
+.classe {
+  padding-bottom: 148px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.rock {
+  height: 500px;
+  color: white;
+}
+
+.quiz {
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+  padding: 50px;
+}
+
+.rolling {
+  background-color: white;
+  border-radius: 16px;
+  padding: 10px;
+  width: 845px;
+  height: 196px;
+  margin: auto;
+}
+
+.rocket {
+  transition: all 0.3s;
+  height: fit-content;
+  padding: 0;
+  opacity: 0.7;
+  margin-bottom: 1rem;
+  overflow: hidden;
+}
+
+.rocket img {
+  height: 155px;
+}
+
+.simple {
+  width: 160px;
+}
+
+.simple img {
+  height: 155px;
+}
+
+.DJ img {
+  width: 160px;
+  height: 155px;
+}
+
+.DJB img {
+  width: 160px;
+  height: 155px;
+}
+
+.thining img {
+  height: 524px;
+  object-fit: cover;
+}
+
+.notwelfare {
+  background-color: lightblue;
+  height: 524px;
+  padding: 35px;
+}
+
+.pride {
+  width: 500px;
+  margin: auto;
+  text-align: left;
+}
+
+.lives {
+  color: #777777;
+  font-size: 19px;
+  padding: 15px;
+}
+
+.live {
+  font-size: 50px;
+  font-weight: bold;
+  padding: 15px;
+}
+
+.sampleing {
+  width: 100%;
+  padding-left: 300px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.lotus {
+  background-color: black;
+  color: white;
+}
+
+.lotus:hover {
+  background-color: antiquewhite;
+  color: black;
+}
+
+.btn {
+  cursor: pointer;
+  display: inline-block;
+  padding: 15px;
+  color: white;
+}
+
+.col-lg-6 {
+  max-width: 50%;
+  flex: 0 0 50%;
+}
+
+.form-control {
+  width: 350px;
+}
+
+.img-col {
+  padding: 0px;
+}
+
+.inventor {
+  margin-top: 20px;
+  color: #777777;
+}
+
+.Sami {
+  font-size: 60px;
+  font-weight: bold;
+}
+
+.health {
+  width: 310px;
+  overflow: hidden;
+  padding: 15px;
+  margin-top: 50px;
+}
+
+.yeet {
+  font-size: 24px;
+}
+
+.health {
+  width: 310px;
+  overflow: hidden;
+  padding: 15px;
+  margin-top: 50px;
+}
+
+.pyscho {
+  width: 310px;
+  overflow: hidden;
+  padding: 15px;
+  margin-top: 50px;
+}
+
+.yeet {
+  font-size: 24px;
+}
+
+.ww {
+  font-size: 24px;
+}
+
+.cho {
+  width: 310px;
+  overflow: hidden;
+  padding: 15px;
+  margin-top: 50px;
+}
+
+.quries {
+  font-size: 30px;
+  font-weight: bold;
+  color: white;
+  padding: 20px;
+}
+
+.book {
+  font-size: 30px;
+  font-weight: bold;
+  color: white;
+  padding: 20px;
+}
+
+.oppo {
+  font-size: 30px;
+  font-weight: bold;
+  color: white;
+  padding: 20px;
+}
+
+.flex img {
+  position: absolute;
+  bottom: -35px;
+  right: -35px;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+.cody {
+  margin-top: 60px;
+}
+
+.ashok {
+  color: #dce8eb;
+  padding-bottom: 0.6rem;
+}
+
+.teaching {
+  background-color: black;
+}
+
+.ride {
+  display: flex;
+}
+
+.dh {
+  color: #dce8eb;
+  list-style: none;
+  padding-left: 0;
+  padding: 15px;
+}
+
+.ph {
+  color: #dce8eb;
+  list-style: none;
+  padding-left: 0;
+  padding: 15px;
+}
+
+.randy {
+  text-decoration: none;
+}
+
+.randy:hover {
+  text-decoration: dashed;
+  cursor: pointer;
+  color: #dce8eb;
+}
+
+.roman {
+  margin-left: 90px;
+}
+
+.Enage {
+  list-style: none;
+  padding-left: 0;
+}
+
+.ring {
+  margin-left: -0.6rem;
+  margin-right: -0.6rem;
+  font-size: 24px;
+  padding: 30px;
+  font-weight: bold;
+}
+
+.trible {
+  background-color: antiquewhite;
+}
+
+.trible:hover {
+  background-color: white;
+}
+
+.team {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.soc {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  margin-right: 0.5rem;
+  margin-bottom: 1rem;
+  transition: all 0.3s;
+  padding: 0.8rem;
+  height: 3rem;
+  width: 3rem;
+  border: 1px solid #777777;
+}
+
+.two {
+  flex: 0 0 auto;
+  width: 600px;
+  padding-left: 188px;
+  margin-bottom: 64px;
+}
+
+.codyes {
+  width: 500px;
+}
+
+@media (max-width: 992px) {
+  .nav-item {
+    margin: auto;
+  }
+}
+
+@media (max-width: 992px) {
+  .see {
+    font-size: 42px;
+    margin-top: 20px;
+  }
+}
+
+@media (max-width: 992px) {
+  .Rk {
+    font-size: 14px;
+    font-weight: 500;
+    max-width: 500px;
+    margin-top: 21px;
+  }
+}
+
+@media (max-width: 992px) {
+  .col-md-12 img {
+    margin: auto;
+  }
+}
+
+@media (max-width: 992px) {
+  .light {
+    font-size: 14px;
+    font-weight: 500;
+  }
+}
+
+@media (max-width: 992px) {
+  .quick {
+    text-align: center;
+  }
+}
+
+@media (max-width: 992px) {
+  .play {
+    width: 100px;
+    height: 69px;
+    text-align: center;
+    color: #000000;
+    margin-top: 0px;
+  }
+}
+
+@media (min-width: 768px) {
+  .Brock {
+    flex: 0 0 auto;
+    width: 500px;
+  }
+}
+
+@media (max-width: 992px) {
+  .taker img {
+    flex: 0 0 auto;
+    margin: auto;
+  }
+}
+
+@media (max-width: 992px) {
+  .colu {
+    flex: 0 0 auto;
+    width: 500px;
+    margin: auto;
+    margin-top: 30px;
+  }
+}
+
+@media (min-width: 768px) {
+  .aus {
+    flex: 0 0 auto;
+    width: 280px;
+    margin: auto;
+    margin-bottom: 30px;
+  }
+}
+
+@media (min-width: 768px) {
+  .noting {
+    flex: 0 0 auto;
+    width: 280px;
+    margin: auto;
+    margin-bottom: 30px;
+  }
+}
+
+@media (min-width: 768px) {
+  .clim {
+    flex: 0 0 auto;
+    width: 500px;
+  }
+}
+
+@media (min-width: 768px) {
+  .kane {
+    flex: 0 0 auto;
+    width: 500px;
+  }
+}
+
+@media (max-width: 992px) {
+  .full {
+    text-align: center;
+  }
+}
+
+@media (min-width: 768px) {
+  .method {
+    flex: 0 0 auto;
+    width: 324px;
+  }
+}
+
+@media (min-width: 768px) {
+  .method {
+    flex: 0 0 auto;
+    width: 324px;
+  }
+}
+
+@media (max-width: 992px) {
+  .for {
+    margin: auto;
+    width: 336px;
+    margin-top: 17px;
+  }
+
+}
+
+@media (min-width: 768px) {
+  .method {
+    flex: 0 0 auto;
+    width: 324px;
+  }
+}
+
+@media (min-width: 768px) {
+  .pirel {
+    margin: unset;
+  }
+}
+
+@media (min-width: 768px) {
+  .one {
+    flex: 0 0 auto;
+    width: 500px;
+    margin: auto;
+  }
+}
+
+@media (min-width: 768px) {
+  .two {
+    flex: 0 0 auto;
+    width: 509px;
+  }
+}
+
+@media (min-width: 768px) {
+  .dell {
+    flex: 0 0 auto;
+    width: 583px;
+  }
+}
+
+@media (max-width: 992px) {
+  .wait img {
+    flex: 0 0 auto;
+    width: 410px;
+    margin: auto;
+    margin-bottom: 15px;
+  }
+}
+
+@media (max-width: 992px) {
+  .siva img {
+    flex: 0 0 auto;
+    width: 410px;
+    margin: auto;
+  }
+}
+
+@media (max-width: 992px) {
+  .fried img {
+    flex: 0 0 auto;
+    margin: auto;
+    width: 410px;
+    margin-top: 15px;
+  }
+}
+
+@media (max-width: 992px) {
+  .pyscho {
+    flex: 0 0 auto;
+    width: 359px;
+    margin: auto;
+    margin-top: 20px;
+  }
+}
+
+@media (min-width: 768px) {
+  .rolling {
+    width: 96%;
+  }
+}
+
+@media (min-width: 768px) {
+  .rocket {
+    width: 220px;
+  }
+}
+
+@media (min-width: 768px) {
+  .simple {
+    width: 126px;
+  }
+}
+
+@media (min-width: 768px) {
+  .DJ {
+    width: 150px;
+  }
+}
+
+@media (min-width: 768px) {
+  .DJB {
+    width: 100PX;
+  }
+}
+
+@media (min-width: 768px) {
+  .col-md-12 {
+    flex: 0 0 auto;
+    width: 100%;
+    text-align: center;
+  }
+}
+
+@media (min-width: 768px) {
+  .col-md-12 {
+    flex: 0 0 auto;
+    width: 100%;
+    text-align: center;
+  }
+}
+
+@media (min-width: 768px) {
+  .col-md-8 {
+    flex: 0 0 auto;
+    width: 66.66666667%;
+    margin: auto;
+  }
+}
+
+@media (max-width: 992px) {
+  .col-12 {
+    flex: 0 0 auto;
+    width: 100%;
+    margin: auto;
+  }
+}
+
+@media(max-width: 992px) {
+  .col-12 {
+    flex: 0 0 auto;
+    margin: auto;
+    margin-top: auto;
+    margin-top: 19px;
+  }
+}
+
+@media(min-width: 768px) {
+  .codyes {
+    width: 100%;
+  }
+}
+
+@media (max-width: 767px) {
+  .visible {
+    width: 426px;
+    overflow-x: hidden
+  }
+
+  .Rk {
+    width: 299px;
+  }
+
+  .dive {
+    text-align: center;
+    padding: 5rem;
+  }
+
+  .colu {
+    text-align: center;
+    width: 410px;
+  }
+
+  .planer {
+    font-size: 20px
+  }
+
+  .light {
+    font-size: 16px;
+    width: 300px;
+    margin: auto;
+    margin-bottom: 10px;
+  }
+
+  .retro {
+    text-align: left;
+  }
+
+  .flet {
+    margin: auto;
+  }
+
+  .original {
+    margin: auto;
+    width: 405px;
+    margin-bottom: 10px;
+  }
+
+  .lenovo {
+    text-align: left;
+  }
+
+  .control {
+    width: 144px;
+  }
+
+  .original1 {
+    margin: auto;
+    width: 405px;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+
+  .rey {
+    text-align: left;
+  }
+
+  .control1 {
+    width: 144px;
+  }
+
+  .green {
+    text-align: left;
+  }
+
+  .control2 {
+    width: 144px;
+  }
+
+  .worker {
+    justify-content: center;
+    margin-bottom: 10px;
+  }
+
+  .airmode {
+    justify-content: center;
+    margin-bottom: 10px;
+  }
+
+  .noting {
+    justify-content: center;
+    margin-bottom: 10px;
+  }
+
+  .clim {
+    margin: auto;
+  }
+
+  .play {
+    margin: auto;
+  }
+
+  .beach {
+    text-align: center;
+    width: 395px;
+  }
+
+  .anyre {
+    margin: auto;
+    margin-bottom: 71px;
+    flex-direction: column;
+  }
+
+  .andri {
+    margin: auto;
+  }
+
+  .redmi {
+    text-align: center;
+    font-size: 23px;
+  }
+
+  .othernon {
+    text-align: center;
+    width: 309px;
+    font-size: 15px;
+  }
+
+  .climax {
+    text-align: center;
+  }
+
+  .anythi {
+    margin: auto;
+    margin-bottom: 71px;
+    flex-direction: column;
+    width: 387px;
+  }
+
+  .othernonr {
+    text-align: center;
+    width: 360px;
+    font-size: 15px;
+  }
+
+  .climaxer {
+    text-align: center;
+    width: 384px;
+  }
+
+  .greatfeel {
+    text-align: center;
+    font-size: 40px;
+  }
+
+  .carding {
+    margin: auto;
+    margin-top: 25px;
+    width: 413px;
+  }
+
+  .nithya {
+    margin: auto;
+    margin-top: 25px;
+    width: 413px;
+  }
+
+  .pirel {
+    margin: auto;
+    margin-top: 20px;
+    width: 413px;
+  }
+
+  .classical {
+    text-align: center;
+  }
+
+  .dell {
+    text-align: center;
+    font-size: 30px;
+  }
+
+  .leo {
+    text-align: center;
+    width: 406px;
+    font-size: 20px;
+  }
+
+  .classer {
+    width: 400px;
+    margin-top: 25px;
+  }
+
+  .classer {
+    width: 400px;
+    margin-top: 25px;
+  }
+
+  .classer {
+    width: 400px;
+    margin-top: 25px;
+  }
+
+  .wait {
+    text-align: center;
+    width: 243px;
+  }
+
+  .truth {
+    text-align: center;
+    width: 211px;
+    margin-top: 20px;
+  }
+
+  .sivan {
+    text-align: center;
+  }
+
+  .sym {
+    text-align: center;
+    width: 260px;
+  }
+
+  .quiz {
+    font-size: 23px;
+  }
+
+  .rolling {
+    width: 334px;
+    height: 621px;
+  }
+
+  .rock {
+    height: 771px;
+    color: white;
+  }
+
+  .rocket {
+    text-align: center;
+    width: 352px;
+  }
+
+  .simple {
+    text-align: center;
+    width: 346px;
+  }
+
+  .DJ {
+    text-align: center;
+    width: 346px;
+  }
+
+  .DJB {
+    text-align: center;
+    width: 346px;
+  }
+
+  .thining img {
+    text-align: center;
+    width: 388px;
+    height: 330px;
+  }
+
+  .notwelfare {
+    text-align: center;
+    width: 388px;
+  }
+
+  .lives {
+    text-align: center;
+    width: 306px;
+  }
+
+  .live {
+    text-align: center;
+    font-size: 28px;
+    width: 306px;
+  }
+
+  .direction {
+    text-align: center;
+    width: 321px;
+  }
+
+  .direct {
+    text-align: center;
+    width: 321px;
+  }
+
+  .sampleing {
+    text-align: center;
+    width: 430px;
+  }
+
+  .sampleing {
+    padding-left: 1px;
+    width: 300px;
+    text-align: center;
+  }
+
+  .inventor {
+    text-align: center;
+  }
+
+  .Sami {
+    text-align: center;
+    font-size: 42px;
+  }
+
+  .vivo {
+    width: 350px;
+  }
+
+  .health {
+    width: 380px;
+  }
+
+  .uso {
+    width: 350px;
+  }
+
+  .yeet {
+    text-align: center;
+    width: 330px;
+    font-size: 20px;
+  }
+
+  .otc {
+    margin-bottom: 20px;
+  }
+
+  .alphabet {
+    width: 350px;
+  }
+
+  .deaned {
+    width: 380px;
+  }
+
+  .brown {
+    width: 350px;
+  }
+
+  .shadow {
+    text-align: center;
+    width: 352px;
+    font-size: 20px;
+  }
+
+  .otc {
+    margin-bottom: 20px;
+  }
+
+  .eng {
+    width: 350px;
+  }
+
+  .cho {
+    width: 380px;
+    margin-top: 50px;
+  }
+
+  .stork {
+    width: 350px;
+  }
+
+  .ww {
+    text-align: center;
+    width: 352px;
+    font-size: 20px;
+  }
+
+  .codyes {
+    text-align: center;
+    width: 405px;
+  }
+
+  .quries {
+    text-align: center;
+    font-size: 20px;
+  }
+
+  .ride {
+    text-align: center;
+    flex-direction: column;
+    width: 375px;
+  }
+  .roman {
+    text-align: center;
+    width: 192px;
+  }
+
+  .book {
+    text-align: center;
+    width: 409px;
+    font-size: 20px;
+  }
+
+  .Enage {
+    text-align: center;
+  }
+
+  .ring {
+    text-align: center;
+  }
+
+  .oppo {
+    text-align: center;
+    width: 209px;
+    font-size: 20px;
+  }
+}
